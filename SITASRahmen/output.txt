@@ -1,0 +1,16 @@
+LogFile: 2024-03-13 22:09:19.185747
+Ventil LEFT_UPPER: Offen
+Ventil LEFT_UPPER: Zu
+Ventil MIDDLE: Offen
+Ventil MIDDLE: Zu
+Ventil MIDDLE: Offen
+Pumpe: Ein
+Ventil RIGHT_UPPER: Offen
+Ventil RIGHT_LOWER: Offen
+Ventil RIGHT_LOWER: Zu
+Ventil RIGHT_LOWER: Offen
+Lampe LEFT_UPPER: Ein
+Lampe RIGHT_UPPER: Ein
+Lampe RIGHT_LOWER: Ein
+Lampe RIGHT_LOWER: Aus
+Pumpe: Aus

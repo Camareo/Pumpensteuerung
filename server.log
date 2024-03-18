@@ -1,0 +1,24 @@
+Mar 17, 2024 10:07:05 AM sitas.server.CommandServer run
+INFO: Ready on port 2008
+Mar 17, 2024 10:07:05 AM sitas.server.EventServer run
+INFO: Ready on port 2009
+Mar 17, 2024 10:07:06 AM sitas.server.EventServer send
+FINE: Message: sensor_bottom_empty on
+Mar 17, 2024 10:07:08 AM sitas.server.EventServer send
+FINE: Message: reset
+Mar 17, 2024 10:07:08 AM sitas.server.EventServer send
+FINE: Message: ready
+Mar 17, 2024 10:07:11 AM sitas.server.EventServer send
+FINE: Message: sensor_left_full off
+Mar 17, 2024 10:07:25 AM sitas.server.EventServer send
+FINE: Message: sensor_left_full on
+Mar 17, 2024 10:07:26 AM sitas.server.EventServer send
+FINE: Message: sensor_right_full on
+Mar 17, 2024 10:07:31 AM sitas.server.EventServer send
+FINE: Message: sensor_right_full off
+Mar 17, 2024 10:07:32 AM sitas.server.EventServer send
+FINE: Message: sensor_left_full off
+Mar 17, 2024 10:07:37 AM sitas.server.EventServer send
+FINE: Message: sensor_right_half off
+Mar 17, 2024 10:07:39 AM sitas.server.EventServer send
+FINE: Message: sensor_right_empty off
